@@ -6,4 +6,5 @@ This is a modification of the original
 conditions that were not present in the original and changing sleet to what
 I thought was a more fitting option.
 
-You can preview the icons [here](http://galdiuz.github.io/skycons/).
+You can preview the icons [here](http://galdiuz.github.io/skycons/). The code
+can be found in the [master branch](https://github.com/Galdiuz/skycons/tree/master).
